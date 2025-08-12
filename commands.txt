@@ -1,0 +1,2 @@
+
+1. Initialize, and push initial setup, with jenkinsfile or dockerfile
