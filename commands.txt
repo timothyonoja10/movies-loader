@@ -2,7 +2,7 @@
 1. Initialize, and push initial setup, with jenkinsfile or dockerfile
 
 2. Create branches
-   git add checkout -b preprod
+   git checkout -b preprod
    git push origin preprod
-   git add checkout -b develop
+   git checkout -b develop
    git push origin develop
