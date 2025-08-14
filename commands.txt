@@ -9,10 +9,4 @@
 
    git add commands.txt 
    git commit -m "Add commands"
-   git push origin develop
-
-   What's happening?
-   What's happening?
-   What? Testing webhook
-   What?
-   What's happening?
+   git push origin develop  
