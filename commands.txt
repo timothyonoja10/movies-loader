@@ -7,6 +7,8 @@
    git checkout -b develop
    git push origin develop
 
-   git add Jenkinsfile commands.txt text_main.py
+   git add commands.txt 
    git commit -m "Add Jenkinsfile, ..."
    git push origin develop
+
+   What's happening?
