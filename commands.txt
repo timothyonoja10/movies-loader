@@ -8,7 +8,7 @@
    git push origin develop
 
    git add commands.txt 
-   git commit -m "Add Jenkinsfile, ..."
+   git commit -m "Add commands"
    git push origin develop
 
    What's happening?
